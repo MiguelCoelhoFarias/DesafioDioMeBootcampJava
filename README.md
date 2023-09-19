@@ -7,4 +7,4 @@ O projeto consiste em um desenvolvimento de UML do iPhone, onde de acordo com o 
 Após isso foi criada a interface das classes em código Java.
 
 
-![DIAGRAMA DE CLASSES - UML - IPHONE - BOOTCAMP](https://github.com/MiguelCoelhoFarias/UMLforIPhoneBootcamp/assets/120602222/508e8583-3d3e-43a0-921d-92c6101e222e)
+![DIAGRAMA DE CLASSES - UML - IPHONE - BOOTCAMP](https://github.com/MiguelCoelhoFarias/DesafioDioMeBootcampJava/assets/120602222/48252bf0-88e7-4cf2-a6ae-69bdec3d25c7)
